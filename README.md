@@ -6,7 +6,7 @@ Description du projet :
 ==
 L'objectif de ce projet est de travailler avec un robot fetch 
 
-Confifuration de la connexion au fetch :
+Configuration de la connexion au fetch :
 ==
 Ouvrir le bashrc : 
 cd ~/.bashrc
