@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<launch>
+	<!-- Ouverture de la simulation --> 
+	<include file="$(find turtlebot_gazebo)/launch/turtlebot_world.launch" />
+	
+	<!-- Ouverture de amcl permettant le bon positionnement du robot dans la carte -->
+	<include file="$(find turtlebot_gazebo)/launch/amcl_demo.launch"/>
+
+	<!--Ouverture de rviz avec les bons parametres --> 
+	<include file="$(find turtlebot_rviz_launchers)/launch/view_navigation.launch" />
+</launch>
+
+
