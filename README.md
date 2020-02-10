@@ -4,7 +4,8 @@
 
 Description du projet :
 ==
-L'objectif de ce projet est de travailler avec un robot fetch  
+L'objectif de ce projet est de travailler avec un robot fetch et d'en faire un robot d'acceuil. 
+Description plus poussée à venir.
 
 Configuration de la connexion au fetch :
 ==
